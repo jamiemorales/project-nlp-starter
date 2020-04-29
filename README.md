@@ -6,7 +6,7 @@ It aims to help someone get started fast and gain a high-level understanding of 
 
 After completion, someone will have built intuition over the NLP lifecycle. 
 
-------------
+
 ## Contents
 
 01 Detect sarcasm in news headlines w TensorFlow
@@ -15,7 +15,7 @@ After completion, someone will have built intuition over the NLP lifecycle.
 
 03 Detect polar in Google app reviews w TensorFlow
 
-------------
+
 
 ## More
 
@@ -27,13 +27,13 @@ Deep Learning Starter
 
 Natural Language Processing Starter
 
-------------
+
 
 ## License
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-------------
+
 
 ## Data sources
 

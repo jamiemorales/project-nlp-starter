@@ -1,0 +1,12 @@
+Data sources
+
+news-headlines-dataset-for-sarcasm-detection
+https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
+
+amazon-fine-food-reviews
+https://www.kaggle.com/snap/amazon-fine-food-reviews
+J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013.
+https://rishabhmisra.github.io/publications/
+
+google-play-store-apps
+https://www.kaggle.com/lava18/google-play-store-apps

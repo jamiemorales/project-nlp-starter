@@ -13,7 +13,7 @@ After completion, someone will have built intuition over the NLP lifecycle.
 
 02 Detect polarity in Amazon fine food reviews w TensorFlow
 
-03 Detect polar in Google app reviews w TensorFlow
+03 Detect polarity in Google app reviews w TensorFlow
 
 
 
